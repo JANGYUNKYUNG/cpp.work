@@ -1,5 +1,5 @@
 
-/*#include <iostream> //2
+#include <iostream> //2
 using namespace std;
 int main() {
     for (int i = 1; i <= 9; ++i) {
@@ -112,7 +112,7 @@ int main() {
     }
 
     return 0;
-}*/
+}
 
 #include <iostream> //8
 #include <cstring>
